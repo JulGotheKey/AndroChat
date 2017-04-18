@@ -1,0 +1,4 @@
+#Tue Apr 18 23:41:46 CEST 2017
+base.0=C\:\\Users\\Julien\\Desktop\\SocketServer-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Julien\\Desktop\\SocketServer-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
